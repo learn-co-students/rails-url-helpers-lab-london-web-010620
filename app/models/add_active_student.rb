@@ -1,0 +1,2 @@
+class AddActiveStudent < ApplicationRecord
+end
